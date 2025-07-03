@@ -12,7 +12,6 @@ from collections import namedtuple, defaultdict
 #  And it failed to display score mate properly.
 #  Whats more,its time control is terrible.
 
-# 简化输入检查函数
 def has_input():
     """Check if there is any input available"""
     try:
