@@ -1,5 +1,5 @@
 # Sunfish-NNUE
-A modified Chess engine based on Sunfish.(from https://raw.github.com/thomasahle/sunfish)
+A modified Chess engine based on Sunfish.(from https://github.com/thomasahle/sunfish)
 
 ## Introduction
 
